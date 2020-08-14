@@ -1,0 +1,9 @@
+C:\Users\jorda\source\repos\TaskTracker\TaskTracker\bin\Debug\TaskTracker.exe.config
+C:\Users\jorda\source\repos\TaskTracker\TaskTracker\bin\Debug\TaskTracker.exe
+C:\Users\jorda\source\repos\TaskTracker\TaskTracker\bin\Debug\TaskTracker.pdb
+C:\Users\jorda\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.csprojAssemblyReference.cache
+C:\Users\jorda\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.Properties.Resources.resources
+C:\Users\jorda\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.csproj.GenerateResource.cache
+C:\Users\jorda\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.exe
+C:\Users\jorda\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.pdb
+C:\Users\jorda\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.TaskChecker.resources
